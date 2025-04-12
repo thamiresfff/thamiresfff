@@ -1,6 +1,6 @@
 # 👋 Olá, eu sou Thamires!  
 
-Sou estudante de **Tecnologia em Análise e Desenvolvimento de Sistemas (TADS)** e estou em uma emocionante transição de carreira. Aos **28 anos**, descobri minha paixão pela tecnologia e, desde então, tenho me dedicado a aprender e evoluir na área.  
+Sou estudante de **Tecnologia em Análise e Desenvolvimento de Sistemas (TADS)** e estou em uma emocionante transição de carreira. Descobri minha paixão pela tecnologia e, desde então, tenho me dedicado a aprender e evoluir na área.  
 
 ## 🚀 Minha jornada  
 - 💡 Sempre curiosa e determinada, busco aprimorar meus conhecimentos em desenvolvimento de software.  
